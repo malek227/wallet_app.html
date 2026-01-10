@@ -88,7 +88,7 @@ cd android
 | المعلومة | القيمة |
 |---------|--------|
 | **اسم التطبيق** | محفظه مالك الموحدة |
-| **Package ID** | com.almada.unifiedwallet |
+| **Package ID** | com.malek.unifiedwallet |
 | **الإصدار** | 1.0.0 |
 | **حجم APK** | ~15-20 MB |
 | **الحد الأدنى** | Android 7.0 (API 24) |
